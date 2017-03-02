@@ -1,0 +1,45 @@
+.navbar {
+    background: #353632;
+    height: 49px;
+    line-height: 49px;
+}
+.logo {
+    height: 100px;
+    overflow: hidden;
+}
+.center, .center-align {
+    text-align: center;
+}
+.logo img {
+    width: 400px;
+}
+.nav nav {
+    height: 212px !important;
+    background: #000 !important;
+}
+.nav nav ul {
+    display: inline-block;
+}
+.nav nav ul a {
+    font-size: 14px;
+    /* text-transform: uppercase; */
+    letter-spacing: 1px; 
+    background: transparent !important;
+    color: #FFF;
+    font-weight: 100; 
+}
+nav .brand-logo {
+    padding-top: 2rem;
+}
+.tramado{
+	padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+	overflow: hidden;
+	background: #fff;
+	height: 47px;
+}
+.tramado img {
+	width: 100%;
+}
+nav .nav-wrapper {
+    height: 65px;
+}
